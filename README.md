@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi, I'm Brad! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-bradsherman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-sherman/)](https://www.linkedin.com/in/brad-sherman/)
+[![Website Badge](https://img.shields.io/badge/-bitsbybrad.com-47CCCC?style=flat&logo=Firefox&logoColor=white&link=https://bitsbybrad.com/)](https://bitsbybrad.com/)
 
+
+I am a software engineer currently living in Chicago. I worked at a trading firm for a few years right out of college, and now I write Haskell code for Bitnomial.
+
+In the past I've made open source contributions to [rust-clippy](https://github.com/rust-lang/rust-clippy/pulls?q=is%3Apr+author%3Abradsherman) and [morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql/pulls?q=is%3Apr+author%3Abradsherman).
+
+Check out my [website](https://bitsbybrad.com) for more information on what I'm currently doing!
 <!--
 **bradsherman/bradsherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
